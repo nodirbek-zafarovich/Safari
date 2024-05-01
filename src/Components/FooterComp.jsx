@@ -11,7 +11,7 @@ const FooterComp = () => {
         <div>
           <img src={Logo} alt="Logo icon" />
         </div>
-        <div className="flex gap-[200px]">
+        <div className="flex gap-[150px]">
           <ul className="py-2">
             <li className="py-2 text-xl text-gray-500 hover:text-black">
               About Us
